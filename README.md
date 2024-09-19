@@ -12,6 +12,9 @@
 - 假名和标点符号保留 Migu 1M 样式，惟 `：；！？` 调整为靠左形式；
 - 根据 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS），新增蝌蚪引号 `“‘’”` `“︁‘︁’︁”︁` 宽度选择。
 
+## 获取字体
+[点击此处直接下载](https://github.com/lxgw/NeoXiHei-Code/raw/main/NeoXiHeiCode-Regular.ttf)。
+
 ## 注意事项
 - 部分环境中可能会显示英文名称 `NeoXiHei Code`，敬请留意。
 - 本字体不适合纵向排版。
