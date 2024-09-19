@@ -32,7 +32,7 @@
   「IPA 字体（IPA Font，IPAフォント）」为日本「独立行政法人　信息处理推进机构」（The Information-Technology Promotion Agency, “IPA”）的注册商标。
   
 ### 字体授权兼容性说明
-- 旧版「M+ 1M」「M+ 2M」采用 M+ FONTS 自有授权方式（新版 M+ 字体遵循 SIL OFL 1.1 开源许可，与 IPA 字体授权许可不兼容）；
+- 旧版「M+ 1M」「M+ 2M」采用 M+ FONTS 自有授权方式（[新版 M+ 字体](https://mplusfonts.github.io)遵循 SIL OFL 1.1 开源许可，与 IPA 字体授权许可不兼容）；
 - 「IPA Gothic」「霞鹜新晰黑」采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。
 
 根据授权的兼容性与传染性，本字体采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。
