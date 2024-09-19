@@ -8,7 +8,7 @@
 - 在 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 基础上修改；
 - 修改 `&`、`3` 等字符为 M+ 2M 格式；
 - 将一些显示为 IPA Gothic 的非 CJK 字符（如 `§`、希腊字母、西里尔字母等）替换为 M+ 1M 样式；
-- 将汉字部分替换为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)，并删除 `jp90` 特性；
+- 将汉字部分替换为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)，并删除 `jp90` 特性，补充部分来自新晰黑的全宽字符；
 - 假名和标点符号保留 Migu 1M 样式，惟 `：；！？` 调整为靠左形式；
 - 根据 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS），新增蝌蚪引号 `“‘’”` `“︁‘︁’︁”︁` 宽度选择。
 
