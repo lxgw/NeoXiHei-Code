@@ -4,6 +4,8 @@
 ## 字体简介
 本字体基于 M+ 1M 和 IPA Gothic 的合并字体 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 再衍生，将汉字部分更换为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)并作出其他调整，可作为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)用于编程用途的等宽版本。
 
+![image](image.png)
+
 ### 制作与调整
 - 在 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 基础上修改；
 - 修改 `&`、`3`、`＠` 等字符为 M+ 2M 格式；
