@@ -15,7 +15,8 @@
 - 根据 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS），新增蝌蚪引号 `“‘’”` `“︁‘︁’︁”︁` 宽度选择。
 
 ## 获取字体
-[点击此处直接下载](https://github.com/lxgw/NeoXiHei-Code/raw/main/NeoXiHeiCode-Regular.ttf)。
+- [点击此处直接下载](https://github.com/lxgw/NeoXiHei-Code/raw/main/NeoXiHeiCode-Regular.ttf)。
+- 此外提供 FCP 格式工程文件，便于二次开发字体。需要 14.0.0.2901 及更高版本的 FontCreator。
 
 ## 注意事项
 - 部分环境中可能会显示英文名称 `NeoXiHei Code`，敬请留意。
