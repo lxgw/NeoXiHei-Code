@@ -44,7 +44,7 @@
 - 您可以將本字型用於印刷品、數字文件、影視內容、海報廣告、包裝、出版物設計以及其他各種設計用途，包括商業和非商業用途；
   也可在本字型基礎上繼續改作衍生，惟衍生字型名稱（包括程式名、檔名、字型名）不得包含「IPA」字樣，且衍生字型須繼承相同授權許可（IPA Font License 1.0 與 SIL OFL 1.1 互不相容）。
 - 根據 IPA Font License 1.0 有關條款，在沒有郵費、儲存媒介費用和手續費的情況下，須免費提供字型檔案，不得將字型檔案單獨售賣。
-- 如果您要將本字型替換回 IPA 原始授權字型，請從 [IPA 字型 Ver.003.03 下載頁面](https://moji.or.jp/ipafont/ipa00303)獲取原始授權字型「IPA ゴシック」和「IPA 明朝」。  
+- 如果您要將本字型替換回 IPA 原始授權字型，請從 [IPA 字型 Ver.003.03 下載頁面](https://moji.or.jp/ipafont/ipa00303)獲取原始授權字型「IPA ゴシック」。  
   對於涉及字型檔案再分發的嵌入式應用（如應用程式、硬體裝置、網頁等嵌入），需要滿足 IPA 許可中針對衍生字型再分發的限制條件，[請點選此處](https://github.com/lxgw/LxgwNeoXiHei/blob/main/documentation/embedding_instructions.md)瞭解（跳轉到「霞鶩新晰黑」repo）。
 - 有關 IPA Font License 1.0 的其他常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq)，需自備翻譯工具。
 - 任何個人、企業、團隊等對本字型進行使用、複製、修改、分發等任意用途即視為您已完全閱讀、充分理解並同意 IPA Font License 1.0 授權協議。  
