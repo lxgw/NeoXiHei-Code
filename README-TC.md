@@ -25,7 +25,7 @@
 - 在 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 基礎上修改；
 - 修改 `&`、`3`、`＠` 等字元為 M+ 2M 格式；
 - 將一些顯示為 IPA Gothic 的非 CJK 字元（如 `§`、希臘字母、西里爾字母等）替換為 M+ 1M 樣式；
-- 將漢字部分替換為[「霞鶩晰黑」](https://github.com/lxgw/LxgwXiHei)或[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)，並刪除 `jp90` 特性，補充部分來自晰黑或新晰黑的全形字元；
+- 將漢字部分替換為[「霞鶩晰黑 MN」](https://github.com/lxgw/LxgwXiHei)或[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)，並刪除 `jp90` 特性，補充部分來自晰黑或新晰黑的全形字元；
 - 假名和標點符號保留 Migu 1M 樣式，惟「新晰黑 Code」`：；！？` 調整為靠左形式，「晰黑 Code」`，。、．` 調整為「霞鶩晰黑」的置中形式；
 - 根據 Unicode 16.0 標準化變體序列（Standardized Variation Sequences, SVS），新增蝌蚪引號 `“‘’”` `“︁‘︁’︁”︁` 寬度選擇。
 
