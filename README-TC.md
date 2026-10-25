@@ -7,7 +7,7 @@
 >
 > 如需取得包含最新字元或修復的版本，請直接使用主專案：
 > - [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
-> - [霞鶩新晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+> - [霞鶩新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
 >
 > 歷史版本仍可在此倉庫的 Releases 中下載。感謝您一直以來的支援！
 >
