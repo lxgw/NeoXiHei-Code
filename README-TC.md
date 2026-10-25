@@ -19,6 +19,8 @@
 ## 字型簡介
 本字型基於 M+ 1M 和 IPA Gothic 的合併字型 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 再衍生，將漢字部分更換為[「霞鶩晰黑」](https://github.com/lxgw/LxgwXiHei)或[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)並作出其他調整，可作為[「霞鶩晰黑」](https://github.com/lxgw/LxgwXiHei)或[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)用於程式設計用途的等寬版本。
 
+![image](image-tc.png)
+
 ### 製作與調整
 - 在 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 基礎上修改；
 - 修改 `&`、`3`、`＠` 等字元為 M+ 2M 格式；
