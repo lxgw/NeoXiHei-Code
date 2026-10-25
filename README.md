@@ -1,3 +1,5 @@
+简体中文 | [繁體中文](README-TC.md)
+
 > [!IMPORTANT]
 > 本仓库为附属项目，**现已归档（只读），不再跟随主项目更新**。
 >
@@ -5,16 +7,17 @@
 >
 > 如需获取带有最新字符或修复的版本，请直接使用主项目：
 > - [霞鹜新晰黑 / LXGW Neo XiHei](https://github.com/lxgw/LxgwNeoXiHei)
+> - [霞鹜晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)
 >
 > 历史版本仍可在此仓库的 Releases 中下载。感谢您一直以来的支持！
 >
 > 本项目衍生自 IPA 字体，遵循 IPA Font License 1.0。若计划将本项目字体用于嵌入式用途，请务必仔细阅读 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 条款，并参考[「嵌入须知」](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)自行评估合规成本。
 
-# 新晰黑 Code / NeoXiHei Code
-「霞鹜新晰黑」与旧版 M+ 等宽字体的合并字体，可用于编程用途。
+# 新晰黑 Code & 晰黑 Code</br>NeoXiHei Code & XiHei Code
+「霞鹜新晰黑」「霞鹜晰黑」与旧版 M+ 等宽字体的合并字体，可用于编程用途。
 
 ## 字体简介
-本字体基于 M+ 1M 和 IPA Gothic 的合并字体 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 再衍生，将汉字部分更换为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)并作出其他调整，可作为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)用于编程用途的等宽版本。
+本字体基于 M+ 1M 和 IPA Gothic 的合并字体 [Migu 1M](https://itouhiro.github.io/mixfont-mplus-ipa/migu/) 再衍生，将汉字部分更换为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)或[「霞鹜晰黑」](https://github.com/lxgw/LxgwXiHei)并作出其他调整，可作为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)或[「霞鹜晰黑」](https://github.com/lxgw/LxgwXiHei)用于编程用途的等宽版本。
 
 ![image](image.png)
 
@@ -23,16 +26,17 @@
 - 修改 `&`、`3`、`＠` 等字符为 M+ 2M 格式；
 - 将一些显示为 IPA Gothic 的非 CJK 字符（如 `§`、希腊字母、西里尔字母等）替换为 M+ 1M 样式；
 - 将汉字部分替换为[「霞鹜新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)，并删除 `jp90` 特性，补充部分来自新晰黑的全宽字符；
-- 假名和标点符号保留 Migu 1M 样式，惟 `：；！？` 调整为靠左形式；
+- 假名和标点符号保留 Migu 1M 样式，惟「新晰黑 Code」`：；！？` 调整为靠左形式，「晰黑 Code」`，。、．` 调整为「霞鹜晰黑」的居中形式；
 - 根据 Unicode 16.0 标准化变体序列（Standardized Variation Sequences, SVS），新增蝌蚪引号 `“‘’”` `“︁‘︁’︁”︁` 宽度选择。
 
 ## 获取字体
-- [点击此处直接下载](https://github.com/lxgw/NeoXiHei-Code/raw/main/NeoXiHeiCode-Regular.ttf)。
-- 此外提供 [FCP 格式工程文件](https://github.com/lxgw/NeoXiHei-Code/blob/main/NeoXiHeiCode-Regular.fcp)，便于二次开发字体。需要 15.0.0.3048 及更高版本的 FontCreator。
+- [点击此处直接下载「新晰黑 Code」](https://github.com/lxgw/NeoXiHei-Code/raw/main/NeoXiHeiCode-Regular.ttf)。
+- [点击此处直接下载「晰黑 Code」](https://github.com/lxgw/NeoXiHei-Code/raw/main/XiHeiCode-Regular.ttf)。
+- 此外提供 FCP 格式工程文件（[新晰黑 Code](https://github.com/lxgw/NeoXiHei-Code/blob/main/NeoXiHeiCode-Regular.fcp) | [晰黑 Code](https://github.com/lxgw/NeoXiHei-Code/blob/main/XiHeiCode-Regular.fcp)），便于二次开发字体。需要 15.0.0.3048 及更高版本的 FontCreator。
 
 ## 注意事项
-- 部分环境中可能会显示英文名称 `NeoXiHei Code`，敬请留意。
-- 本字体不适合纵向排版。
+- 部分环境中可能会显示英文名称 `NeoXiHei Code` 或 `XiHei Code`，敬请留意。
+- 本字体不适合纵向排版，亦无计划提供 `liga` 特性支持。
 
 ## 授权信息
 
@@ -48,7 +52,7 @@
   
 ### 字体授权兼容性说明
 - 旧版「M+ 1M」「M+ 2M」采用 [M+ FONTS 自有授权方式](https://spdx.org/licenses/mplus)（旧版 M+ 自有授权条款实质等效于 [0BSD](https://opensource.org/license/0BSD)；[新版 M+ 字体](https://mplusfonts.github.io)遵循 SIL OFL 1.1 开源许可，与 IPA 字体授权许可不兼容）；
-- 「IPA Gothic」「霞鹜新晰黑」采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。
+- 「IPA Gothic」「霞鹜新晰黑」「霞鹜晰黑」采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权方式。
 
 根据授权的兼容性与传染性，本字体采用 [IPA Font License v1.0](IPA_Font_License_Agreement_v1.0.txt) 授权。
 
